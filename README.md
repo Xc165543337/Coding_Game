@@ -2,6 +2,6 @@
 
 ## Introduction
 
-This repository is for pure entertainment: I was just invited by one of my classmate to solve quizzes online.
+This repository is for pure entertainment: I was just invited by one of my classmates to solve quizzes online.
 
 They could be found at : <https://adventofcode.com/>
